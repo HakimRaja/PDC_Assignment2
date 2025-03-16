@@ -21,7 +21,9 @@ The implementation simulates message passing between processes and ensures messa
 Clone the repository.
 
 Run the files using Python:
+
     python CausalOrdering.py
+    
     python CausalOrdering2.py
 
 ## Output Explanation
